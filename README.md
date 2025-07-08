@@ -1,2 +1,2 @@
-# Velgard--PHP-proxy
+# Velgard-PHP-proxy
 A PHP proxy
